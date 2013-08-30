@@ -1,3 +1,4 @@
 Nama	: Octavia
 Kelas	: XI-RPL
 Alamat	: Halim
+Data	:
